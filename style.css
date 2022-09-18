@@ -90,6 +90,15 @@ body{
     
 }
 
+
+/* HOVER */
+
+.description .button-top a:hover{
+    background-color: hsl(248, 46%, 58%);
+    transition:0.2s all
+}
+
+
 /* FORM */
 
 form{
